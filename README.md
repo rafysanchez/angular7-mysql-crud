@@ -1,5 +1,7 @@
 npm i -g typescript // ajustar para ter o mais novo typescript globalmente
 
+tsc --init -- gera um arquivo de configuracao de tsc
+
 npm init --yes 
 
 npm i express morgan promise-mysql cors
