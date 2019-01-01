@@ -1,3 +1,5 @@
+npm i -g typescript // ajustar para ter o mais novo typescript globalmente
+
 npm init --yes 
 
 npm i express morgan promise-mysql cors
